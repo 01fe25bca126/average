@@ -5,4 +5,5 @@ c = float(input("Enter third number: "))
 average = (a + b + c) / 3
 
 print("Average:", average)
+print("Check average")
 
